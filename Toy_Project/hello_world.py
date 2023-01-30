@@ -1,22 +1,12 @@
-# -*- coding: utf-8 -*-
+# This Python file uses the following encoding: utf-8
+
+# if __name__ == "__main__":
+#     pass
+
 import sys
-from PyQt5.Qtwidgets import QApplication, QWidget, QLabel
-from PyQt5.QtGui import QIcon
-from PyQt5.QtCore import pyqtSlot
+from PySide6.QtWidgets import QApplication, QLabel
 
-def window():
-    app = QApplication(sys.argv)
-    widget = QWidget()
-
-    textLabel = QLabel(widget)
-    textLabel.setText("Hello World!")
-    textLabel.move(110,85)
-    widget.setGeometry(50, 50, 320, 200)
-    widget.setWindowTitle("PyQt5 Example")
-    widget.show()
-    sys.exit(app.exec_())
-
-if __name__ == '__main__':
-    window()
-
-print(python.__version__)
+app = QApplication(sys.argv)
+label = QLabel("<font color=red size=20>Hello World!</font>")
+label.show()
+app.exec()
