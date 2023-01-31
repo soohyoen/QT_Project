@@ -1,3 +1,3 @@
 {
-    "files": ["widget.py","Signal.py","Table_Widget.py","dialog.py","form.ui","Button.py","Tree_Widget.py"]
+    "files": ["Button.py","dialog.py","mainwindow.ui","Signal.py","Table_Widget.py","widget.py","form.ui","Tree_Widget.py","UI_Designer.py"]
 }
