@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 9.0.1, 2023-02-03T10:14:39. -->
+<!-- Written by QtCreator 9.0.1, 2023-02-06T11:32:09. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -149,12 +149,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">widget.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/widget.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/widget.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\widget.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -166,12 +164,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Signal.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Signal.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Signal.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\Signal.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.2">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -183,12 +179,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">dialog.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/dialog.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/dialog.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\dialog.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.3">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -200,12 +194,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Button.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Button.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Button.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\Button.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.4">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -217,12 +209,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Table_Widget.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Table_Widget.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Table_Widget.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\Table_Widget.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.5">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -234,12 +224,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Tree_Widget.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Tree_Widget.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Tree_Widget.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\Tree_Widget.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.6">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -251,12 +239,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">UI_Designer.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/UI_Designer.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/UI_Designer.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\UI_Designer.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.7">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -268,12 +254,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">icons.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/icons.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/icons.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\icons.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.8">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -373,12 +357,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">widget.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/widget.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/widget.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\widget.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -390,12 +372,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Button.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Button.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Button.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\Button.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.2">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -407,12 +387,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">dialog.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/dialog.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/dialog.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\dialog.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.3">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -424,12 +402,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Signal.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Signal.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/va/Desktop/Qt/QT_Project/Toy_project/Signal.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\va\Desktop\Qt\QT_Project\Toy_project\Signal.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/va/Desktop/Qt/QT_Project/Toy_project</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">4</value>
   </valuemap>

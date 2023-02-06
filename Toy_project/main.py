@@ -3,11 +3,11 @@ import sys
 from PySide6.QtSql import QSqlQueryModel
 from PySide6.QtWidgets import QTableView,QApplication
 
-import createDb_1
+import createDb
 
 if __name__ == "__main__":
     app = QApplication()
-    createDb_1.init_db()
+    createDb.init_db()
 
     model = QSqlQueryModel()
     model.setQuery("select * from book")
