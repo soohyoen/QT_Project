@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/Porting_Test">
+<file alias="main.qml">C:/Users/va/Desktop/Qt/QT_Project/Porting_Test/main.qml</file>
+</qresource>
+</RCC>

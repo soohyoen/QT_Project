@@ -28,6 +28,7 @@ LIBS += -LC:\Users\va\AppData\Local\Programs\Python\Python38\libs -lpython38
 
 # Default rules for deployment.
 
+
 HEADERS += \
     python_wrapper.h \
     test.h
