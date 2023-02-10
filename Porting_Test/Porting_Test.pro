@@ -34,4 +34,5 @@ HEADERS += \
     test.h
 
 DISTFILES += \
+    detect.py \
     hello.py
