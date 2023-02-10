@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<RCC version="1.0">
-    <qresource prefix="/Porting_Test">
-        <file alias="main.qml">../Porting_Test/main.qml</file>
-    </qresource>
-</RCC>
